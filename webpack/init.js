@@ -2,5 +2,4 @@
 import './css/app.sass'
 
 // general polifils
-import 'whatwg-fetch'
-import 'promise-polyfill/dist/polyfill'
+import 'focus-visible'
